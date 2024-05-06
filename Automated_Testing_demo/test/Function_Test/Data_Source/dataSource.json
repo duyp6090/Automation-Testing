@@ -1,0 +1,107 @@
+{
+    "arrayPerson" : [
+        {
+            "account" : "duy00@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy01@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy02@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy03@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy04@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy00@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy05@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy06@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy07@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy08@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy09@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy10@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy11@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy12@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy13@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy14@gmail.com",
+            "password" : "d1234567"
+        },
+
+
+        {
+            "account" : "duy15@gmail.com",
+            "password" : "d1234567"
+        },
+
+        {
+            "account" : "duy15@gmail.com",
+            "password" : "d1234567"
+        }
+    ],
+
+    "buttonCloseDetail": "//*[@id=\"popmake-4406\"]/button",
+    "buttonCloseNotice": "//*[@id=\"popmake-4393\"]/button",
+    "buttonAddCart": "#ec_add_to_cart_5",
+    "buttonAddedCart": "#ec_added_to_cart_5"
+}
