@@ -1,5 +1,5 @@
 # Automation-Testing
-How to use mu project:
+How to use my project:
 1. Install NodeJs environment
 2. Clone my project
 3. Open Terminal and write npm install to setup dependencies.
